@@ -1,4 +1,13 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+
+
+[![Matrix SVG](https://raw.githubusercontent.com/leoallvez/leoallvez/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <!--
 **leoallvez/leoallvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
